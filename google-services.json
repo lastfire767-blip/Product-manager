@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665606524844",
+    "project_id": "project-manager-ef63d",
+    "storage_bucket": "project-manager-ef63d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665606524844:android:d8d171e4114b44fbaab409",
+        "android_client_info": {
+          "package_name": "manager.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSIu4_pRBrq_Rfyqdi7hIbgXiA3-9Lbu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
